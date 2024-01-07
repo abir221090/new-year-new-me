@@ -126,6 +126,60 @@ text-align: left;
 }
 
 
+/* footer section here  */
+
+footer{
+    display: flex;
+    gap: 200px;
+    justify-content: space-around;
+    margin:100px 0px 0px 0px;
+    padding:130px 0px 200px 0px;
+    background-color: #0f0f0f;
+}
+.footer-col-left-heading{
+color: #F8F8F8;
+font-size: 45px;
+font-weight: 700;
+margin-bottom:20px;
+}
+.footer-col-left-para{
+color: #FFF;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+}
+
+.footer-col-right-heading{
+color:#FFF;
+font-family: Work Sans;
+font-size: 25px;
+font-weight: 600;}
+
+.subscribe{
+border-radius: 8px;
+background: #FFF;
+width: 170.106px;
+height: 64px;
+color: #F15B22;
+font-size: 20px;
+font-weight: 600;
+}
+
+.footer-col-right{
+    display: flex;
+    gap:20px;
+    flex-direction: column ;
+}
+
+.email{
+    border-radius: 8px;
+border: 1px solid #FFF;
+padding: 15px 15px 15px 15px;
+background-color: #0f0f0f;
+}
+
+
+
 
 /* button style */
 
