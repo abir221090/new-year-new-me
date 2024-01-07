@@ -1,0 +1,52 @@
+/* body section here */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header section style */
+
+header{
+    background-image: url(/images/banner/banner2.png);
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+
+.header-dad{
+    text-align: right;
+}
+    
+ 
+
+.heading{
+color:#0f0f0f;
+font-family: Work Sans;
+font-size: 65px;
+font-weight: 700;
+padding: 216px 23px 23px 840px ;
+}
+
+.heading-paragrah{
+color: #444343;
+font-size: 16px;
+padding:0px 23px 32px 876px;
+font-weight: 400;}
+
+
+
+
+/* button style */
+
+.button-primary{
+border:0px;
+padding:25px;
+border-radius: 5px;
+background: #F15B22;
+color: #FFF;
+font-size: 20px;
+font-weight: 600;
+margin-right: 23px;
+}
+
